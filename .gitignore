@@ -1,0 +1,15 @@
+dist/
+out/
+node_modules/
+tests/screenshots/*
+.env.local
+.next
+.idea
+.DS_Store
+.now
+build
+old/
+_old/
+.env
+
+.vercel
